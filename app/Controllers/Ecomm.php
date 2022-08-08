@@ -17,6 +17,11 @@ class Ecomm extends BaseController {
         echo view('ecomm/ecomm-section5');
         echo view('ecomm/ecomm-section6');
         echo view('ecomm/ecomm-section7');
+        echo view('ecomm/ecomm-section8');
+        echo view('ecomm/ecomm-section9');
+        echo view('ecomm/ecomm-section10');
+        echo view('ecomm/ecomm-section11');
+        echo view('ecomm/ecomm-section12');
 
         echo view('footer/footer');
         echo view('footer/footer-section1');

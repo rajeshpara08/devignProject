@@ -1,0 +1,99 @@
+CRITICAL - 2022-08-06 04:40:31 --> Invalid file: ecomm/ecomm-section10.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ecomm/ecomm-section10.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ecomm/ecomm-section10', [], true)
+ 3 APPPATH\Controllers\Ecomm.php(22): view('ecomm/ecomm-section10')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ecomm->ecommPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ecomm))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 04:48:01 --> Invalid file: ecomm/ecomm-section11.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ecomm/ecomm-section11.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ecomm/ecomm-section11', [], true)
+ 3 APPPATH\Controllers\Ecomm.php(23): view('ecomm/ecomm-section11')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ecomm->ecommPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ecomm))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 04:49:45 --> Invalid file: ecomm/ecomm-section11.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ecomm/ecomm-section11.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('ecomm/ecomm-section11', [], true)
+ 3 APPPATH\Controllers\Ecomm.php(23): view('ecomm/ecomm-section11')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Ecomm->ecommPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ecomm))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 06:36:12 --> Invalid file: blogspost/blogspost-section1.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('blogspost/blogspost-section1.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('blogspost/blogspost-section1', [], true)
+ 3 APPPATH\Controllers\Blogspost.php(13): view('blogspost/blogspost-section1')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Blogspost->blogspostPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blogspost))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 06:37:27 --> Invalid file: blogspost/blogspost-section1.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('blogspost/blogspost-section1.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('blogspost/blogspost-section1', [], true)
+ 3 APPPATH\Controllers\Blogspost.php(13): view('blogspost/blogspost-section1')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Blogspost->blogspostPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blogspost))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 06:38:22 --> Invalid file: blogspost/blogspost-section1.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('blogspost/blogspost-section1.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('blogspost/blogspost-section1', [], true)
+ 3 APPPATH\Controllers\Blogspost.php(13): view('blogspost/blogspost-section1')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Blogspost->blogspostPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blogspost))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 06:55:22 --> Invalid file: Post/Post-section1.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Post/Post-section1.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Post/Post-section1', [], true)
+ 3 APPPATH\Controllers\Post.php(13): view('Post/Post-section1')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Post->PostPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 06:56:43 --> Invalid file: Post/Post-section1.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Post/Post-section1.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Post/Post-section1', [], true)
+ 3 APPPATH\Controllers\Post.php(13): view('Post/Post-section1')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Post->PostPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Post))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 07:22:12 --> Invalid file: css/style.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css/style.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('css/style', [], true)
+ 3 APPPATH\Controllers\Freetraining.php(8): view('css/style')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Freetraining->freetrainingPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Freetraining))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 07:30:18 --> Invalid file: css/ecomm-style.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css/ecomm-style.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('css/ecomm-style', [], true)
+ 3 APPPATH\Controllers\Freetraining.php(8): view('css/ecomm-style')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Freetraining->freetrainingPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Freetraining))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 07:36:46 --> Invalid file: css/ecomm-style.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('css/ecomm-style.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('css/ecomm-style', [], true)
+ 3 APPPATH\Controllers\Freetraining.php(8): view('css/ecomm-style')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Freetraining->freetrainingPage()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Freetraining))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

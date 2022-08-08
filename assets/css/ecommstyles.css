@@ -1,0 +1,121 @@
+body {
+    font-family: Roboto, sans-serif;
+    line-height: 1.25;
+  }
+  a{
+    color: #ffffff !important;
+  }
+  a.nav-link{
+      color:#000000 !important;
+          border-bottom: 1px solid #c3c3c3;
+          border-radius:0px !important;
+  }
+  .btn-group-lg>.btn, .btn-lg{
+      
+      font-size: 2.25rem !important;
+      width: 100%;
+  }
+  .link{
+      color:#000 !important;text-decoration:underline;
+  }
+  
+  div#v-pills-tabContent {
+      margin: 0 auto;
+  }
+  .align-right a{
+      text-align:center;
+  }
+  .nav-pills span { width:30%; display:inline-block; }
+  .nav-pills span.align-right { text-align:right; margin-left:4%; }
+  .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+      background-color:#FECD08 !important;
+  }
+  div#v-pills-tab {
+      display: block;
+  }
+  .alert-heading {
+      color: #ffffff;
+      background-color: #000000;
+      border-color: #f5c6cb;
+  }
+  .alert-heading h4{
+      color:#fff !important;
+  }
+  .container {
+      max-width: 1150px !important;
+  }
+  .pag{
+      margin: 0 auto;
+  }
+  .pag a {
+    text-decoration: none;
+    padding: 8px 16px;
+  }
+  .btn-disabled,
+  .btn-disabled[disabled] {
+    opacity: .4;
+    cursor: default !important;
+    pointer-events: none;
+  }
+  a.nav-link.next2{
+      color:#fff !important;
+  }
+  .previous {
+    background-color: #FECD08;
+    color: black;padding: 10px;
+  }
+  
+  .next,.next2,.next3 {
+    background-color: #0d7900;
+    color: white !important;padding: 10px;
+  }
+  a.nav-link.next,a.nav-link.next2,a.nav-link.next3 {
+      text-align: center;
+  }
+  .nav-link.next,.next2,.next3 {color:#ffffff !important;}
+  video {
+      width: 100%;
+      max-height: 100%;
+  }
+  #consultationform{
+      background: #ceeae7;font-size: 20px;
+      margin-top: 10px;
+      margin: 0 auto;
+      width: 70%;
+  }
+  .pag .round {
+    border-radius: 50%;
+  }
+  h1 {
+      line-height: 1.125;
+      font-weight:700;font-size: 2.5rem;
+  }
+  .ul-col li{
+      position:relative;padding-left: 30px;font-size:22px;margin-bottom:8px;font-weight:400;
+  }
+  .ul-col li:before{
+      content: "\f00c";
+      display: inline-block;
+      font: normal normal normal 14px/1 FontAwesome;
+      position:absolute;left: 0;
+      top: 6px;
+      color: rgb(56, 255, 74); font-size: 25px;
+  }
+  .gray{
+     color: rgb(37,50,55); 
+  }
+  .btn-home{
+      width: 100%;
+      padding: 10px !important;
+      font-size: 25px !important;
+      font-weight: 600 !important;
+      color: #fff !important;
+      background: rgb(231,141,35) !important;  
+  }
+  footer{
+      color:rgb(82, 82, 82);
+  }
+  footer p{
+      margin:0px;
+  }
+  
