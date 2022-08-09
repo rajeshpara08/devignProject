@@ -1,5 +1,5 @@
 <section class="page-section portflio-section">
-      <div class="container">
+<div class="container">
          <h2 class="main-headings text-center">Our Ecommerce Website Development Portfolio</h2>
          <div class="row align-items-center">
             <div class="col-auto">
@@ -98,5 +98,4 @@
             </div>
          </div>
       </div>
-   </section>
-   
+</section>
